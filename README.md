@@ -55,4 +55,4 @@ Owner of the Data Warehouse, empowering the organization through data.
 
 - [linkedin.com/in/josegalarza](https://www.linkedin.com/in/josegalarza)
 - [github.com/josegalarza](https://www.github.com/josegalarza)
-- [josegalarza.github.io/about](https://josegalarza.github.io/about)
+- [josegalarza.github.io](https://josegalarza.github.io)
