@@ -8,7 +8,7 @@ Software engineer with more than nine years of professional experience. Started 
 
 ### Data Engineer
 
-**[Canva](https://www.canva.com) · Sydney · 2018-present**
+**[Canva](https://www.canva.com) · Sydney · 2018–present**
 
 Owner of the Data Warehouse, empowering the organization through data.
 
@@ -21,7 +21,7 @@ Owner of the Data Warehouse, empowering the organization through data.
 
 ### Data Consultant
 
-**[Servian](https://www.servian.com) · Sydney · 2013-2018**
+**[Servian](https://www.servian.com) · Sydney · 2013–2018**
 
 *Description goes here*
 
@@ -35,7 +35,7 @@ Owner of the Data Warehouse, empowering the organization through data.
 - ETL Developer · [LMG](https://lmg.com.au)
 
 ### IT Consultant
-**[Deloitte](https://www2.deloitte.com/ar/es.html) · Buenos Aires · 2010-2013**
+**[Deloitte](https://www2.deloitte.com/ar/es.html) · Buenos Aires · 2010–2013**
 
 *Description goes here*
 
@@ -49,7 +49,7 @@ Owner of the Data Warehouse, empowering the organization through data.
 
 **[National Technology University](https://www.utn.edu.ar) · Buenos Aires · 2010**
 
-*Description goes here*
+Formed to analyze and evaluate information processing requirements and, on that basis, design, develop, organize, implement and control computer systems at the service of multiple information needs, organizations and individuals.
 
 ## Contact
 
